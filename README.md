@@ -8,6 +8,7 @@ with a traditional sequential implementation.
 
 # Scope
 The scope of this project includes:
+
 • Collecting music data from Spotify using their API.
 
 • Preprocessing the collected data for analysis.
